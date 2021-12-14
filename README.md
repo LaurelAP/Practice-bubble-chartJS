@@ -3,7 +3,7 @@
 ![Bubble chart with one series](./bubble.png)
 
 ## Demo 
-https://handsondataviz.github.io/chartjs-bubble/
+https://laurelap.github.io/Practice-bubble-chartJS/
 
 Sample data by TrendCT, NY Times, Stanford Ed Data Archive, American Community Survey,
 and CT State Department of Education.
