@@ -3,10 +3,12 @@
 ![Bubble chart with one series](./bubble.png)
 
 ## Demo 
-https://laurelap.github.io/Practice-bubble-chartJS/
+https://handsondataviz.github.io/chartjs-bubble/
 
 Sample data by TrendCT, NY Times, Stanford Ed Data Archive, American Community Survey,
 and CT State Department of Education.
+
+https://laurelap.github.io/Practice-bubble-chartJS/
 
 ## Create your own
 See chapter 10: Chart.js and Highcharts templates in [Hands-On Data Visualization](https://handsondataviz.org) by Jack Dougherty and Ilya Ilyankou.
